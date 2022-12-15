@@ -2,11 +2,11 @@
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
-[assembly: AssemblyTitle("Skylines_DemandMaster")]
+[assembly: AssemblyTitle("Skylines_DemandMasterPhenix")]
 [assembly: AssemblyDescription("RCI Demand Tool for Cities:Skylines")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Kagami Workshop")]
-[assembly: AssemblyProduct("Skylines_DemandMaster")]
+[assembly: AssemblyCompany("BlackFury DEV")]
+[assembly: AssemblyProduct("Skylines_DemandMasterPhenix")]
 [assembly: AssemblyCopyright("Kagami 2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
