@@ -10,12 +10,12 @@ namespace DemandMaster
     {
         public string Description
         {
-            get { return "View or Change RCI Demand. Author:Kagami"; }
+            get { return "View or Change RCI Demand. Original Author:Kagami, Phenix Author: BlackFury"; }
         }
 
         public string Name
         {
-            get { return "Demand Master"; }
+            get { return "Demand Master Phenix"; }
         }
 
         public void OnEnabled()
