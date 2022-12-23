@@ -1,7 +1,7 @@
 ﻿using ColossalFramework.Plugins;
 using System.IO;
 
-namespace DemandMaster
+namespace DemandMasterPhenix
 {
     public class IOHelper
     {
@@ -19,7 +19,7 @@ namespace DemandMaster
         private static IOHelper instance;
         #endregion
 
-        private readonly string mainFolderName = "DemandMaster";
+        private readonly string mainFolderName = "DemandMasterPhenix";
         private readonly string block = "/";
 
         private readonly string configFileName = "Config.xml";
