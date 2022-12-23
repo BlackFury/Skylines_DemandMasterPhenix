@@ -7,7 +7,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("BlackFury DEV")]
 [assembly: AssemblyProduct("Skylines_DemandMasterPhenix")]
-[assembly: AssemblyCopyright("Kagami 2016")]
+[assembly: AssemblyCopyright("BlackFury 2022")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -15,5 +15,5 @@ using System.Runtime.InteropServices;
 
 [assembly: Guid("5eaa078c-991c-4b08-918a-735540c215e4")]
 
-[assembly: AssemblyVersion("1.0.*")]
+[assembly: AssemblyVersion("1.0.1")]
 //[assembly: AssemblyFileVersion("1.0.0.0")]
