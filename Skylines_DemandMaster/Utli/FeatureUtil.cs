@@ -2,7 +2,7 @@
 
 using UnityEngine;
 
-namespace DemandMaster
+namespace DemandMasterPhenix
 {
     public static class FeatureUtil
     {
