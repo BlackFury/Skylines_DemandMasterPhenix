@@ -2,7 +2,7 @@
 using ICities;
 using ColossalFramework.UI;
 
-namespace DemandMaster
+namespace DemandMasterPhenix
 {
 
     #region Mod
@@ -83,7 +83,7 @@ namespace DemandMaster
         }
     }
 
-    public class DemandMasterGame : LoadingExtensionBase
+    public class DemandMasterPhenixGame : LoadingExtensionBase
     {
         /// <summary>
         /// Flag for checking DemandMaster UI is open.
