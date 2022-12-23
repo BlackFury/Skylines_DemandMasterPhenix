@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using ColossalFramework.UI;
 
-namespace DemandMaster
+namespace DemandMasterPhenix
 {
     public class RCIMainUIPanel : UIPanel
     {
