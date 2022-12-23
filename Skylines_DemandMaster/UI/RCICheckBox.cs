@@ -1,6 +1,6 @@
 ﻿using ColossalFramework.UI;
 
-namespace DemandMaster
+namespace DemandMasterPhenix
 {
     public class RCICheckBox : UISprite
     {
