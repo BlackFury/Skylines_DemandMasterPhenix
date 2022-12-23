@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using ColossalFramework.UI;
 
-namespace DemandMaster
+namespace DemandMasterPhenix
 {
     public enum RCIType
     {
