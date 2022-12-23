@@ -3,7 +3,7 @@ using ColossalFramework.UI;
 using UnityEngine;
 using System.Collections;
 
-namespace DemandMaster
+namespace DemandMasterPhenix
 {
     public class RCIButton : UIButton
     {
