@@ -4,7 +4,7 @@ using System.IO;
 using System.Xml.Serialization;
 using UnityEngine;
 
-namespace DemandMaster
+namespace DemandMasterPhenix
 {
     public class LocaleLabel
     {
