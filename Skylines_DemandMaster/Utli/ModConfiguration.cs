@@ -1,7 +1,7 @@
 ﻿using System.IO;
 using System.Xml.Serialization;
 
-namespace DemandMaster
+namespace DemandMasterPhenix
 {
     public class Configuration
     {
