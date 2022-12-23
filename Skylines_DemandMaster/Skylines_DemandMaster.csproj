@@ -7,8 +7,8 @@
     <ProjectGuid>{CB31FDA8-985E-4021-87C4-D282FC09246B}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>DemandMaster</RootNamespace>
-    <AssemblyName>DemandMaster</AssemblyName>
+    <RootNamespace>DemandMasterPhenix</RootNamespace>
+    <AssemblyName>DemandMasterPhenix</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile>Unity Full v3.5</TargetFrameworkProfile>
